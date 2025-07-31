@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "white-byway-467013-f8",
+  "private_key_id": "eda3fd7882422cc0e274d6ca38ce46e4ef0e5e87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCPXgRiVTUGyOcx\nLPdw6JXQlzXzjD4SpdkOpaKSlf8lq110VOyJe81CbhKUt2HXFJkZJ32cIPirdgzb\ny8VXHnLp20hqZKeVJ/U3pcP8lyy1cHPVVVkxTcQBJMzT2OkQFRt5F6IoRmWAeOod\nVvbZfUOWLmWUg9+QYdiBJ18SAaWRpyyuaalnftf95wB/jNk0vDfiPGOh3zQiQzH5\nbd5/EEfLic4hr2u5deLhWbqtTlVID3AORwB/awljIhAB9VNHigeYVMwcVUpmrQud\nOPrT6ZtQL9oYr5DEg8vu338qG/amAvxj9JpaZmIpVwPSMwAMXtfngTYFuCDY48Sw\nsmuBfxlJAgMBAAECggEAPO6C433+Ru9s3ugTFDAtuBUED4obuZY2HbUE1tMcORjP\nY8lSLI5q6uBYUk9sLFqrRNcVWh1jQpAuH95HdWLSCRUy/lDgLpLoc+mmVby0ejqc\naF9ZRIyeELRgv2rRhw3JetoyB3b/3a3GJokW6dGEv5fhgVDY3AbR2vZuP/tmMHQf\nKHE2LXu8AnaZBi4CUlbr1++ASexJblQzdJ+nt3UQw7/IhqWFWJPTbZItI/bkU+QS\n06eWGAAStvphA+fknlg+cv0mfqLLNM2a5BQMP57YapV2fbGru04ZmgTIEV2Wc+kw\nsQZd3vr9Mia3MbxibBbDv82Krwdji4/l2WKL82CL9wKBgQDGDU6x6jefZdRQsNsk\nGK2r7h5LhFsLHwbBJ1TSvAIEIl1ShKnVHxMPllnwMX3AgJEmpym9qcfhc9MJTbAv\nXKOqS6JSWe5hJqLIGb8ZwEXxu8N0Wx1DeHPLeKt4JTZhMc1xAxgC8qoWTrtZzsx8\n2oKG9yDJ93Qwc1MYOtwLinxH0wKBgQC5UKh/POMi5s5l7GYk4vzuOXghmLFOtnxj\ngS8wOwbyPpqz52m0kIzWTc+HAJ+mhj47p9ejKyqvBwZq86ku+zXgkS/rG9KZKflw\nGzp1a++UTH3Zr/xcjedEtT/lkA9hnMgBfT4nfjogv0LfLu/t8EuXqaUiO8Aue2YU\nPL1XGdXk8wKBgGZJyTMqfL/en+Fs9kGWXVxHB26JVVxREfQAlFais4ffF8PesLhZ\n7EZIqPrdFM2vmUgVXgGPBqTyZTSQ40YS2pTBq3xM5klW4wvmAEUUgQtwpmoaBOsr\n8uJL2IOc9JEOX8TWjDg5jI8o6qpfnE1/rZp3WH/3RhMf/PKus6diRv3xAoGABa2K\n/BsJepBH0qejmY264jGwlJbxF9BPj1zt7TRhyhpQ8yIsAvRK3GYV7bT/L0L9tSY3\nXTB9Zk94yt4cWOwpgm/wX+vCUB8RHXY4HFDqTkjpsjnKKavPYjOLeaUoU31SQ3lq\n5hrf/RDfI6d0gn3SUxtHi/z4rnPpdMVHp9uKyjECgYAh7ylRFZYyle5FDY/jvU3V\nBYI867RVcsfQzZ/I7Y8H1KwDISejYCGr/ZXqgvrd6zIR0fmlNE7UqoWCuN1X1lzT\nqssMABkcZDLYeJUmA/U55feeXLcRSVzyNSkSmkK4mWVrhVbRlfR5sVu4sQOh9H/x\naDTEdaG70PSQ+/uDpEWNlg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "recommender-system@white-byway-467013-f8.iam.gserviceaccount.com",
+  "client_id": "115471666313385124170",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/recommender-system%40white-byway-467013-f8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
